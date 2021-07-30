@@ -1,8 +1,8 @@
 # This is the Male voiced Jarvis.
-# This Project is made and maintained by Rishi Jani. Each and every line Of the code is Written By Rishi Jani.
+# This Project is made and maintained by Rishi Jani.
+# Each and every line Of the code is Written By Thakur Public School Students: "Kalp Kothari", "Pranjal Thacker" and "Rishi Jani" only.
 
-# Jarvis is a A.I. for All the Cross PlatForms
-# No-One Can use This Code for Harmful Purposes.
+# Jarvis is a A.I. for All the Cross PlatForms, No-One Can use This Code for Harmful Purposes.
 
 # All The Imports:-
 import datetime
